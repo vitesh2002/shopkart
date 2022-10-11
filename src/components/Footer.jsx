@@ -120,7 +120,7 @@ const Footer = () => {
           <ListItem>My Account</ListItem>
           <ListItem>Order Tracking</ListItem>
           <ListItem>Wishlist</ListItem>
-          <ListItem>Wishlist</ListItem>
+          <ListItem>Coupons</ListItem>
           <ListItem>Terms</ListItem>
         </List>
       </Center>
