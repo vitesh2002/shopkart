@@ -19,4 +19,4 @@ const Announcement = () => {
     </div>;
 };
 
-export default Section;
+export default Plip;

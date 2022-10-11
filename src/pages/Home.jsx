@@ -6,7 +6,7 @@ import Navbar from "../components/Navbar";
 import Newsletter from "../components/Newsletter";
 import Products from "../components/Products";
 import Slider from "../components/Slider";
-import Section from "../components/Section";
+import Section from "../components/Plip";
 
 const Home = () => {
   return (
