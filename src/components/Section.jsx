@@ -12,7 +12,11 @@ const Container = styled.div`
 `;
 
 const Announcement = () => {
-  return <Container>Super Deal! Free Shipping on Orders Over ₹5000</Container>;
+  return <div>
+    <left>Men Shoes</left>
+    <centre>Woman Shoes</centre>
+    <right>Unisex Shoes</right>
+    </div>;
 };
 
-export default Announcement;
+export default Section;
