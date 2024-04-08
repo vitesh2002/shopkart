@@ -9,4 +9,3 @@
 # sooridey
 # godugupatti
 # vachadey
-# bhujamu
