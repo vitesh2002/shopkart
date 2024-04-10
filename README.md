@@ -7,5 +7,4 @@
 # 32
 # 33day
 # sooridey
-# godugupatti
 
